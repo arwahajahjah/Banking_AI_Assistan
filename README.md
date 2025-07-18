@@ -14,7 +14,7 @@ An intelligent assistant built using LLM (Large Language Models) and LangChain t
 The dataset includes customer profiles, transactions, credit cards, loans, and feedback — allowing the assistant to reason and generate accurate, data-aware responses.
 
 Example user question:
-> *"What is the best car loan option for someone earning 3000 NIS?"*
+> *"Who are the customers that have more than one credit card?"*
 
 ## 🧠 Tech Stack
 
