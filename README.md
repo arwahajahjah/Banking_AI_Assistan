@@ -7,7 +7,6 @@ An intelligent assistant built using LLM (Large Language Models) and LangChain t
 - Answer questions related to banking and financial products
 - Understand context using LLM (`flan-t5-base`)
 - Search through custom financial dataset using embeddings + FAISS
-- Works locally or in the cloud (Colab-ready)
 
 ## 📁 Dataset
 
